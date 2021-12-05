@@ -1,0 +1,12 @@
+[package]
+name = "interruptable_function"
+version = "0.1.0"
+edition = "2021"
+license = "mit"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+rand = "0.8"
